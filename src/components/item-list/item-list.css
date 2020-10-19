@@ -1,0 +1,14 @@
+.item-list .list-group-item {
+    cursor: pointer;
+    margin-left: 15px;
+    color: black;
+  }
+
+
+   /* .item-list .list-group-item{
+    background-color: #7e848c;
+  } */
+  
+  /* .item-list .list-group-item:hover {
+    background-color: #444;
+  } */
